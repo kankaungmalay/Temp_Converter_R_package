@@ -1,0 +1,26 @@
+{
+    "id": "93F84E98",
+    "path": "~/github/data_analyzing_playground/r-statistics/creating_r_package/Temp_Converter_R_package/R/temp_conversion.R",
+    "project_path": "R/temp_conversion.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1679614674267.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "26,1",
+        "scrollLine": "3"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1679614678,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1679614678317,
+    "read_only": false,
+    "read_only_alternatives": []
+}
